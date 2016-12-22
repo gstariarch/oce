@@ -9,6 +9,7 @@ OCE contains additional code over OCCT contributed by (alphabetical sort):
 - Benjamin Bihler (https://github.com/Bihlerben)
 - @blobfish (https://github.com/blobfish)
 - fohlenrolle (mmuellen at gmx dot de)
+- Florian Chevassu (florian dot chevassu at kitware dot com, https://github.com/FlorianChevassu)
 - QbProg (tholag at gmail dot com)
 - Jake ()
 - Johannes Obermayr (https://github.com/jobermayr)
@@ -28,4 +29,4 @@ OCE contains additional code over OCCT contributed by (alphabetical sort):
 - Philippe Carret ()
 - He Yuki ()
 
-Copyright 2011-2015
+Copyright 2011-2016

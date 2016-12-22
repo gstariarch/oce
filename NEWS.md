@@ -1,3 +1,15 @@
+### Version 0.18 - December 2016
+
+This version is not binary compatible with OCE 0.17.*, OCE_ABI_SOVERSION
+was incremented.
+
+* Upgraded to OCCT 6.9.1
+
+* Fix null pointer access in BRepMesh_EdgeTesselator
+
+Users who contributed to this release:
+  Jacob Abel, @blobfish, Nicolas Chevassus, Thomas Paviot
+
 ### Version 0.17.2 - May 2016
 
 This version is binary compatible with 0CE 0.17 and OCE 0.17.1
